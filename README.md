@@ -1,5 +1,5 @@
 # E-Commerce API (Spring Boot)
-
+Video de test => youtube.com/watch?v=LjaD6rOP1jk&feature=youtu.be
 Este es un proyecto backend simple para gestionar productos de un comercio electrónico. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) y simular la compra de productos gestionando el stock.
 
 ## 🛠 Tecnologías Utilizadas
